@@ -1,10 +1,5 @@
 # 🚀 Faroswap BOT
 
-> Automated web3 interaction for efficient crypto farming and multi-account management
-
-[![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/vonssy/Faroswap-BOT.svg)](https://github.com/vonssy/Faroswap-BOT/stargazers)
 
 ## 📋 Table of Contents
 
